@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## JJ Reibel   
 
-You can use the [editor on GitHub](https://github.com/JJFReibel/Summary/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Repositories](https://github.com/JJFReibel) | [LinkedIn](http://www.linkedin.com/in/jj-reibel) | [FRANC (on Uniswap)](https://app.uniswap.org/#/swap?outputCurrency=0xbabd6aa0798b805309533601ef4459103803e09b)  
+E-Mail: jj.f.reibel@gmail.com  
+Ethereum Address: 0x5D54eF668a5BF42202AA7f5213CBC75835F99709  
+Franc Contract Address: 0xbabd6aa0798b805309533601ef4459103803e09b  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+____________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________
 
-### Markdown
+# Ongoing Independent Projects
+____________________________________________________________________________________________________________________________________
+• New Programming Language designed for Cybersecurity  
+• Indie games  
+• Mobile apps  
+• Other Misc.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+____________________________________________________________________________________________________________________________________
+
+# About the Repositories
+____________________________________________________________________________________________________________________________________
+The repositories here consist of various projects, including apps, APIs, cybersecurity tools, and small programs that demonstrate topics such as sniffing and object oriented programming in over 70 computer languages. Languages include:  
+
+ActionScript, ActionScript Classic, Ada, AngelScript, AppleScript, Bash, Basic, Boo, C, C#, C++, Caml, Ceylon, Clojure, Cobra, CoffeeScript, Crystal, CSV, D, Dart, eC, Eiffel, Elixir, Elm, Erlang, F#, Fantom, Fortran, Go, Gosu, Groovy, Haskell, Haxe, HTML, Hy, INI, Java, JavaScript, JavaScript Classic, JSON, Julia, Kotlin, Lua, MySQL, Nemerle, Nim, Objective-C, OCaml, Pascal, Perl, PHP, PostgreSQL, PowerShell, Python, QBasic, R, Raku, Ruby, Rust, Scala, SQLite, Smalltalk, Swift, Tcl, TOML, Transact-SQL, TypeScript, Vala, Visual Basic, XML, YAML, Z Shell  
+
+____________________________________________________________________________________________________________________________________
+
+
+____________________________________________________________________________________________________________________________________
+
+
+# Other
 
 ```markdown
-Syntax highlighted code block
+Software Engineer interested in AI, Cybersecurity, and Systems.
+# Software Engineer
+# Crypto/Stocks
+# Cybersecurity
+# Operating Systems
+# Software
 
-# Header 1
-## Header 2
-### Header 3
+Other things about JJ
+# JJ is a black belt  
+# JJ has lived and traveled extensively in Europe, Asia, Oceania, and North America  
+# JJ enjoys outdoor activities including hiking, swimming, and skiing  
+# JJ likes video games, audio/video, and sci-fi  
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JJFReibel/Summary/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
