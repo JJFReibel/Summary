@@ -75,6 +75,7 @@ Systems - Hardware (Secondary)
 # Computer Processing Units
 # Graphical Processing Units
 # Solid State Drives
+# Super Computers
 # Quantum Computers
 # Bipedal and Multi-legged Autonomous Robots
 # Ground, Aerial, Swimming, and Space Drones
@@ -82,12 +83,28 @@ Systems - Hardware (Secondary)
 # Robotic Physical Data Collection and Analysis
 # Scientific Clocks
 # Human-Computer Interaction
+# 3D Printers
 
-Applications
+Applications - General
 # Video Games
 # Mobile Apps
 # Scalable Software
 # Anti-Malware
+# Neural Networks
+# Random Forests
+# Deep Computation
+# Autonomous Vehicles
+# Physical Science Research
+# Biological Research (Mapping and Simulation)
+# Medical Research (Mapping and Simulation)
+# Ecosystem and Climate Research
+# Astronomical and Cosmological Research
+
+Applications - Metaverse
+# 3D Digital Modeling and Animation
+# Unique and Generalized Behavior-Based Artificial Intelligence
+# Physically Based Materials
+# Biologically Based Materials
 
 ```
 
