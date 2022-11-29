@@ -1,4 +1,5 @@
-## Jean-Jacques F. Reibel   
+## Jean-Jacques F. Reibel    
+Preferred Name/Moniker/Alias: JJ (PRONOUNCED JAY-JAY)    
 
 jj.f.reibel@gmail.com    
 [GitHub](https://github.com/JJFReibel) | [LinkedIn](http://www.linkedin.com/in/jj-reibel) | [Twitter](https://twitter.com/jean_reibel) | [Online Resume](https://sites.google.com/view/jj-reibel) | [FRANC on Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0xbabd6aa0798b805309533601ef4459103803e09b)       
@@ -46,7 +47,7 @@ ActionScript, ActionScript Classic, Ada, AngelScript, AppleScript, Bash, Basic, 
 
 ____________________________________________________________________________________________________________________________________
 
-# Interests
+# Professional Interests
 
 ```markdown
 Artificial Intelligence
@@ -58,17 +59,43 @@ Artificial Intelligence
 # Sentience
 # Simulation
 # Optimization
+# Data Mining
+# Scientific Computation
 
-Systems
+Systems - Software
 # Operating Systems
 # Programming Languages
 # Cloud Networks
 # Game Engines
+# Encryption
+# Virtual Reality
+# Augmented Reality
 
-Hobbies
-# Swimming
-# Skiing
-# Traveling
-# Audio
+Systems - Hardware (Secondary)
+# Computer Processing Units
+# Graphical Processing Units
+# Solid State Drives
+# Quantum Computers
+# Bipedal and Multi-legged Autonomous Robots
+# Ground, Aerial, Swimming, and Space Drones
+# Space and Harsh Environment Exploration Machines
+# Robotic Physical Data Collection and Analysis
+# Scientific Clocks
+# Human-Computer Interaction
+
+Applications
+# Video Games
+# Mobile Apps
+# Scalable Software
+# Anti-Malware
 
 ```
+
+____________________________________________________________________________________________________________________________________
+
+# Hobbies
+Swimming     
+Skiing     
+Traveling  
+Audio    
+   
