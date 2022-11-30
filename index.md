@@ -8,7 +8,7 @@ Franc Contract Address: 0xbabd6aa0798b805309533601ef4459103803e09b
 
 ### Software Engineering and Data focused engineer/scientist and triple master WGU alumnus/student based in the San Francisco Bay Area. Interested in applying skills in a professional environment and can work remotely.
 
-Common tools: Python, Data Science libraries, Unity Engine, C#, C++, SQL
+Common tools: Python, Jupyter Notebooks, Data Science libraries, Unity Engine, C#, C++, SQL
 
 ____________________________________________________________________________________________________________________________________
 
