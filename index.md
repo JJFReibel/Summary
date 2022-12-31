@@ -1,7 +1,10 @@
 ## Jean-Jacques F. Reibel    
 Preferred Name/Moniker/Alias: JJ (PRONOUNCED JAY-JAY)    
 
-jj.f.reibel@gmail.com    
+jj.f.reibel@gmail.com | [Personal Home Page](https://jjfreibel.wixsite.com/home) | [CV](https://jjfreibel.wixsite.com/home/CV)    
+
+
+____________________________________________________________________________________________________________________________________
 [GitHub](https://github.com/JJFReibel) | [LinkedIn](http://www.linkedin.com/in/jj-reibel) | [Twitter](https://twitter.com/jean_reibel) | [Online Resume](https://sites.google.com/view/jj-reibel) | [FRANC on Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0xbabd6aa0798b805309533601ef4459103803e09b)       
 Ethereum Address: 0x5D54eF668a5BF42202AA7f5213CBC75835F99709  
 Franc Contract Address: 0xbabd6aa0798b805309533601ef4459103803e09b  
