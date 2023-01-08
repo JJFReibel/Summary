@@ -9,7 +9,7 @@ ________________________________________________________________________________
 Ethereum Address: 0x5D54eF668a5BF42202AA7f5213CBC75835F99709  
 Franc Contract Address: 0xbabd6aa0798b805309533601ef4459103803e09b  
 
-### Software Engineering and Data focused engineer/scientist and triple master WGU alumnus/student based in the San Francisco Bay Area. Interested in applying skills in a professional environment and can work remotely.
+### Software Engineering and Data focused engineer/scientist and triple master WGU graduate based in the San Francisco Bay Area. Interested in applying skills in a professional environment and can work remotely.
 
 Common tools: Python, Jupyter Notebooks, Data Science libraries, Unity Engine, C#, C++, SQL
 
@@ -27,11 +27,11 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________________________________________________
 
-# Credentials
+# Credentials 
+• [Advanced Data Modeling Micro-credential](https://wgu.badgr.com/public/assertions/1K6e7LuuR1-6X9jztl8BBA)
 • [Data Analytics Fundamentals Micro-credential](https://api.badgr.io/public/assertions/rZmbnxEJSyuhUihylZOmTw)     
 • [Data Preparation Micro-credential](https://api.badgr.io/public/assertions/VxElP-ftQW29949Tb1uh6w)     
 • [Certified Ethical Hacker](https://aspen.eccouncil.org/VerifyBadge?&type=certification&a=vp1VEDsr3JTQaPYsoO0hBKIfBWaffPfg1XMgf32gbbM=)     
-• Project+    
 
 ____________________________________________________________________________________________________________________________________
 
