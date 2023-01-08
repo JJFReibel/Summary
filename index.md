@@ -28,7 +28,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________
 
 # Credentials 
-• [Advanced Data Modeling Micro-credential](https://wgu.badgr.com/public/assertions/1K6e7LuuR1-6X9jztl8BBA)
+• [Advanced Data Modeling Micro-credential](https://wgu.badgr.com/public/assertions/1K6e7LuuR1-6X9jztl8BBA)     
 • [Data Analytics Fundamentals Micro-credential](https://api.badgr.io/public/assertions/rZmbnxEJSyuhUihylZOmTw)     
 • [Data Preparation Micro-credential](https://api.badgr.io/public/assertions/VxElP-ftQW29949Tb1uh6w)     
 • [Certified Ethical Hacker](https://aspen.eccouncil.org/VerifyBadge?&type=certification&a=vp1VEDsr3JTQaPYsoO0hBKIfBWaffPfg1XMgf32gbbM=)     
