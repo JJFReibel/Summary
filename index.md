@@ -16,7 +16,7 @@ Common tools: Python, Jupyter Notebooks, Data Science libraries, Unity Engine, C
 ____________________________________________________________________________________________________________________________________
 
 # Education
-• Master of Science, Data Analytics.     
+• Master of Science, Data Analytics      
 • Master of Science, Cybersecurity  
 • Master of Business Administration  
 
