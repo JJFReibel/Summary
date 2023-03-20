@@ -84,9 +84,9 @@ Applications - Metaverse
 ____________________________________________________________________________________________________________________________________
 
 # Hobbies
-App Development
-Gaming
-Swimming     
+App Development     
+Gaming    
+Swimming         
 Skiing     
 Traveling  
 Audio    
