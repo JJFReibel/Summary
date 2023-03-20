@@ -5,21 +5,34 @@ jj.f.reibel@gmail.com | [Personal Home Page](https://jjfreibel.wixsite.com/home)
 
 
 ____________________________________________________________________________________________________________________________________
-[GitHub](https://github.com/JJFReibel) | [LinkedIn](http://www.linkedin.com/in/jj-reibel) | [Twitter](https://twitter.com/jean_reibel) | [Online Resume](https://sites.google.com/view/jj-reibel) | [FRANC on Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0xbabd6aa0798b805309533601ef4459103803e09b)       
+[GitHub](https://github.com/JJFReibel) | [LinkedIn](http://www.linkedin.com/in/jj-reibel) | [Online Resume](https://sites.google.com/view/jj-reibel) | [FRANC on Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0xbabd6aa0798b805309533601ef4459103803e09b)       
 Ethereum Address: 0x5D54eF668a5BF42202AA7f5213CBC75835F99709  
 Franc Contract Address: 0xbabd6aa0798b805309533601ef4459103803e09b  
 
-### Software Engineering and Data focused engineer/scientist and triple master WGU graduate based in the San Francisco Bay Area. Interested in applying skills in a professional environment and can work remotely.
+### Software Engineer and Data Scientist, triple master WGU graduate, and tech/business focused person based in the San Francisco Bay Area. Interested in applying skills in a professional environment and can work remotely. Interests include AI, Operating Systems, Gaming, Data, and App Development. Would really like to work full time in a tech role.     
 
-Common tools: Python, Jupyter Notebooks, Data Science libraries, Unity Engine, C#, C++, SQL
+# Experience
+Independent Software Development and Engineering    
+Independent Data Science    
+Freelance Software Development    
+Game Testing    
+Consulting    
+Management and Leadership    
+
+Common tools: Python, Java, C++, C#, SQL...     
 
 ____________________________________________________________________________________________________________________________________
 
 # Education
 • Master of Science, Data Analytics      
 • Master of Science, Cybersecurity  
-• Master of Business Administration  
-
+• Master of Business Administration, Business    
+• Bachelor of Science, Computer Science    
+• Bachelor of Arts, Spanish    
+• Minor, Applied Computer Graphics    
+• Diploma     
+• Nearly half-completed fourth master's degree, Computer Science     
+• Additional electives, mostly Computer Science     
 ____________________________________________________________________________________________________________________________________
 
 # Coursework
@@ -32,12 +45,14 @@ ________________________________________________________________________________
 • [Data Analytics Fundamentals Micro-credential](https://api.badgr.io/public/assertions/rZmbnxEJSyuhUihylZOmTw)     
 • [Data Preparation Micro-credential](https://api.badgr.io/public/assertions/VxElP-ftQW29949Tb1uh6w)     
 • [Certified Ethical Hacker](https://aspen.eccouncil.org/VerifyBadge?&type=certification&a=vp1VEDsr3JTQaPYsoO0hBKIfBWaffPfg1XMgf32gbbM=)     
+• [Project+](https://www.credly.com/badges/7c2182a1-b604-401e-87c5-0409168341a1)
 
 ____________________________________________________________________________________________________________________________________
 
 # Organizations
-• Order of the Sword & Shield  
-• Phi Sigma Pi  
+• Golden Key International Honour Society    
+• Order of the Sword & Shield National Honor Society  
+• Phi Sigma Pi National Honor Fraternity  
 
 ____________________________________________________________________________________________________________________________________
 
@@ -67,8 +82,11 @@ Applications - Metaverse
 ____________________________________________________________________________________________________________________________________
 
 # Hobbies
+App Development
+Gaming
 Swimming     
 Skiing     
 Traveling  
 Audio    
    
+____________________________________________________________________________________________________________________________________
