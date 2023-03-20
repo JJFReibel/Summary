@@ -44,8 +44,10 @@ ________________________________________________________________________________
 • [Advanced Data Modeling Micro-credential](https://wgu.badgr.com/public/assertions/1K6e7LuuR1-6X9jztl8BBA)     
 • [Data Analytics Fundamentals Micro-credential](https://api.badgr.io/public/assertions/rZmbnxEJSyuhUihylZOmTw)     
 • [Data Preparation Micro-credential](https://api.badgr.io/public/assertions/VxElP-ftQW29949Tb1uh6w)     
+• [1st Place Team](https://api.badgr.io/public/assertions/UkMhEM24Sr2MqICPlPu18w)        
+• [Certificate of Completion](https://api.badgr.io/public/assertions/EqLkixvzT5KfxXjaaJhdig)    
 • [Certified Ethical Hacker](https://aspen.eccouncil.org/VerifyBadge?&type=certification&a=vp1VEDsr3JTQaPYsoO0hBKIfBWaffPfg1XMgf32gbbM=)     
-• [Project+](https://www.credly.com/badges/7c2182a1-b604-401e-87c5-0409168341a1)
+• [Project+](https://www.credly.com/badges/7c2182a1-b604-401e-87c5-0409168341a1)    
 
 ____________________________________________________________________________________________________________________________________
 
