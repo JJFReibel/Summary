@@ -9,7 +9,7 @@ ________________________________________________________________________________
 Ethereum Address: 0x5D54eF668a5BF42202AA7f5213CBC75835F99709  
 Franc Contract Address: 0xbabd6aa0798b805309533601ef4459103803e09b  
 
-### Software Engineer and Data Scientist, triple master WGU graduate, and tech/business focused person based in the San Francisco Bay Area. Interested in applying skills in a professional environment and can work remotely. Interests include AI, Operating Systems, Gaming, Data, and App Development. Would really like to work full time in a tech role.     
+### Software Engineer and Data Scientist, triple master WGU graduate, and tech/business focused person based in the San Francisco Bay Area. Interests include AI, Operating Systems, Gaming, and Finance.         
 
 # Experience
 Independent Software Development and Engineering    
@@ -26,17 +26,8 @@ ________________________________________________________________________________
 # Education
 • Master of Science, Data Analytics      
 • Master of Science, Cybersecurity  
-• Master of Business Administration, Business    
-• Bachelor of Science, Computer Science    
-• Bachelor of Arts, Spanish    
-• Minor, Applied Computer Graphics    
-• Diploma     
-• Nearly half-completed fourth master's degree, Computer Science     
-• Additional electives, mostly Computer Science     
-____________________________________________________________________________________________________________________________________
-
-# Coursework
-• Statistical Machine Learning  
+• Master of Business Administration        
+• Post-Graduate Studies, Computer Science     
 
 ____________________________________________________________________________________________________________________________________
 
@@ -61,6 +52,13 @@ ________________________________________________________________________________
 # Ongoing Independent Projects
 • New programming language  
 • Misc. Apps, Games, and APIs  
+
+____________________________________________________________________________________________________________________________________
+
+# Published Computer Science Books
+• [Neural Networks](https://www.amazon.com/dp/B0C573PP5B)      
+• [Artificial Intelligence](https://www.amazon.com/dp/B0C4HCLXSQ)     
+• [Computer Science](https://www.amazon.com/dp/B0C3ZX7DQ5)      
 
 ____________________________________________________________________________________________________________________________________
 
@@ -92,3 +90,10 @@ Traveling
 Audio    
    
 ____________________________________________________________________________________________________________________________________
+
+# Other Published Books
+• [The Outdoor People](https://www.amazon.com/dp/B0C2WCQFW2)      
+• [Providence](https://www.amazon.com/dp/B0C184N5HD)     
+
+
+
