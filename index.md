@@ -75,18 +75,21 @@ ________________________________________________________________________________
 # Interests
 
 ```markdown
-**STEM**
-App Development, including AI, OS, Blockchains, Game Engines, and Games
-Astrophysics, including Quantum Physics, General Relativity, Special Relativity, and Physical Cosmology
-Computer Hardware, Audio, Video, Interaces
-Complex numbers like the Mandelbrot set
+STEM
+• App Development, including AI, OS, Blockchains, Game Engines, and Games
+• Astrophysics, including Quantum Physics, General Relativity, Special Relativity, and Physical Cosmology
+• Computer Hardware, Audio, Video, Interaces
+• Complex numbers like the Mandelbrot set
+• Space Exploration and Colonization
+• Robots, Androids, and Drones
+• General STEM
 
-**Other**
-Gaming
-Swimming
-Skiing
-Traveling
-Audio Listening
+Other
+• Gaming
+• Swimming
+• Skiing
+• Traveling
+• Audio Listening
 ```
    
 ____________________________________________________________________________________________________________________________________
