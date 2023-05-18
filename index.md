@@ -1,7 +1,7 @@
 ## Jean-Jacques F. Reibel    
 Preferred Name/Moniker/Alias: JJ (PRONOUNCED JAY-JAY)    
 
-jj.f.reibel@gmail.com | [Personal Home Page](https://jjfreibel.wixsite.com/home) | [CV](https://jjfreibel.wixsite.com/home/CV)    
+jj.f.reibel@gmail.com | [Personal Home Page](https://jjfreibel.wixsite.com/home) | [CV](https://jjfreibel.wixsite.com/home/cv)    
 
 
 ____________________________________________________________________________________________________________________________________
