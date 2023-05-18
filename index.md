@@ -27,7 +27,7 @@ ________________________________________________________________________________
 • Master of Science, Data Analytics      
 • Master of Science, Cybersecurity  
 • Master of Business Administration        
-• Post-Graduate Studies, Computer Science     
+• Post-graduate Studies, Computer Science, Engineering, and Statistical Machine Learning     
 
 ____________________________________________________________________________________________________________________________________
 
