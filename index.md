@@ -56,6 +56,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________
 
 # Published Computer Science Books
+• [Software Engineering](https://www.amazon.com/dp/B0C5KY8K1N)      
 • [Data Structures, Algorithms, and Machine Learning in Ruby](https://www.amazon.com/dp/B0C57G9DZZ)     
 • [Neural Networks](https://www.amazon.com/dp/B0C573PP5B)      
 • [Artificial Intelligence](https://www.amazon.com/dp/B0C4HCLXSQ)     
