@@ -9,15 +9,15 @@ ________________________________________________________________________________
 Ethereum Address: 0x5D54eF668a5BF42202AA7f5213CBC75835F99709  
 Franc Contract Address: 0xbabd6aa0798b805309533601ef4459103803e09b  
 
-### Software Engineer and Data Scientist, triple master WGU graduate, and tech/business focused person based in the San Francisco Bay Area. Interests include AI, Operating Systems, Gaming, and Finance.         
+### Software Engineer and Data Scientist, triple master graduate, and tech/business focused person based in the San Francisco Bay Area. Interests include AI, Operating Systems, Gaming, and Finance.         
 
 # Experience
-Independent Software Development and Engineering    
-Independent Data Science    
-Freelance Software Development    
-Game Testing    
-Consulting    
-Management and Leadership    
+• Independent Software Development and Engineering    
+• Independent Data Science    
+• Freelance Software Development    
+• Game Testing    
+• Consulting    
+• Management and Leadership    
 
 Common tools: Python, Java, C++, C#, SQL...     
 
@@ -39,6 +39,7 @@ ________________________________________________________________________________
 • [Certificate of Completion](https://api.badgr.io/public/assertions/EqLkixvzT5KfxXjaaJhdig)    
 • [Certified Ethical Hacker](https://aspen.eccouncil.org/VerifyBadge?&type=certification&a=vp1VEDsr3JTQaPYsoO0hBKIfBWaffPfg1XMgf32gbbM=)     
 • [Project+](https://www.credly.com/badges/7c2182a1-b604-401e-87c5-0409168341a1)    
+• [Applied Deep Learning Capstone Project](https://courses.edx.org/certificates/03f2941723174b1798feeba937d61d3b)     
 
 ____________________________________________________________________________________________________________________________________
 
