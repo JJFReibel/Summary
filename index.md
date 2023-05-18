@@ -72,25 +72,22 @@ ActionScript, ActionScript Classic, Ada, AngelScript, AppleScript, Bash, Basic, 
 
 ____________________________________________________________________________________________________________________________________
 
-# Professional Interests
+# Interests
 
 ```markdown
-Artificial Intelligence
-Systems - Software
-Systems - Hardware (Secondary)
-Applications - General
-Applications - Metaverse
+**STEM**
+App Development, including AI, OS, Blockchains, Game Engines, and Games
+Astrophysics, including Quantum Physics, General Relativity, Special Relativity, and Physical Cosmology
+Computer Hardware, Audio, Video, Interaces
+Complex numbers like the Mandelbrot set
+
+**Other**
+Gaming
+Swimming
+Skiing
+Traveling
+Audio Listening
 ```
-
-____________________________________________________________________________________________________________________________________
-
-# Hobbies
-App Development     
-Gaming    
-Swimming         
-Skiing     
-Traveling  
-Audio    
    
 ____________________________________________________________________________________________________________________________________
 
