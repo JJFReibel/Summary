@@ -78,7 +78,7 @@ ________________________________________________________________________________
 STEM
 • App Development, including AI, OS, Blockchains, Game Engines, and Games
 • Astrophysics, including Quantum Physics, General Relativity, Special Relativity, and Physical Cosmology
-• Computer Hardware, Audio, Video, Interaces
+• Computer Hardware, Audio, Video, Interfaces
 • Complex numbers like the Mandelbrot set
 • Space Exploration and Colonization
 • Robots, Androids, and Drones
