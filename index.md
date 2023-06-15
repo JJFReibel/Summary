@@ -57,6 +57,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________
 
 # Published Computer Science Books
+• [Encryption](https://www.amazon.com/dp/B0C85HLBSG)
 • [Go Programming](https://www.amazon.com/dp/B0C7G56HY5)      
 • [Software Engineering](https://www.amazon.com/dp/B0C5MF2V7W)      
 • [Data Structures, Algorithms, and Machine Learning in Ruby](https://www.amazon.com/dp/B0C57G9DZZ)     
