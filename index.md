@@ -24,10 +24,10 @@ Common tools: Python, Java, C++, C#, SQL...
 ____________________________________________________________________________________________________________________________________
 
 # Education
+• Master of Science, Computer Science in progress      
 • Master of Science, Data Analytics      
 • Master of Science, Cybersecurity  
 • Master of Business Administration        
-• Post-graduate Studies, Computer Science, Engineering, and Statistical Machine Learning     
 
 ____________________________________________________________________________________________________________________________________
 
