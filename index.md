@@ -57,6 +57,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________
 
 # Published Computer Science Books
+• [Hacker](https://www.amazon.com/dp/B0CDFM4K8Y)        
 • [Swift Programming](https://www.amazon.com/dp/B0C8H549WJ)        
 • [Hacker's Cookbook](https://www.amazon.com/dp/B0C887QGRM)      
 • [Encryption](https://www.amazon.com/dp/B0C85HLBSG)     
