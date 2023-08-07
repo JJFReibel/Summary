@@ -100,6 +100,7 @@ Other
 ____________________________________________________________________________________________________________________________________
 
 # Other Published Books
+• [UZA](https://www.amazon.com/dp/B0CDYW2HZH)        
 • [The Outdoor People](https://www.amazon.com/dp/B0C2WCQFW2)      
 • [Providence](https://www.amazon.com/dp/B0C184N5HD)     
 
