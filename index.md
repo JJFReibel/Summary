@@ -57,6 +57,8 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________
 
 # Published Computer Science Books
+• [Artificial Intelligence Fundamentals](https://www.amazon.com/dp/B0CHNC67TS)  
+• [Data Science](https://www.amazon.com/dp/B0CHJLZHX6)  
 • [Hacker](https://www.amazon.com/dp/B0CDFM4K8Y)        
 • [Swift Programming](https://www.amazon.com/dp/B0C8H549WJ)        
 • [Hacker's Cookbook](https://www.amazon.com/dp/B0C887QGRM)      
