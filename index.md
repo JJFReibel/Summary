@@ -1,22 +1,25 @@
 ## Jean-Jacques F. Reibel    
 Preferred Name/Moniker/Alias: JJ (PRONOUNCED JAY-JAY)    
 
-[Personal Home Page](https://jjfreibel.wixsite.com/home) | [CV](https://jjfreibel.wixsite.com/home/cv)    
+[Website](https://www.appshub.link)     
 
 
 ____________________________________________________________________________________________________________________________________
-[GitHub](https://github.com/JJFReibel) | [LinkedIn](http://www.linkedin.com/in/jj-reibel) | [Online Resume](https://sites.google.com/view/jj-reibel) | [FRANC on Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0xbabd6aa0798b805309533601ef4459103803e09b) | [Amazon Author Page](https://www.amazon.com/author/jjreibel)       
+[GitHub](https://github.com/JJFReibel) | [LinkedIn](http://www.linkedin.com/in/jj-reibel) | [FRANC on Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0xbabd6aa0798b805309533601ef4459103803e09b) | [Amazon Author Page](https://www.amazon.com/author/jjreibel)       
 Ethereum Address: 0x5D54eF668a5BF42202AA7f5213CBC75835F99709  
 Franc Contract Address: 0xbabd6aa0798b805309533601ef4459103803e09b  
 
-### Software Engineer and Data Scientist, triple master graduate, and tech/business focused person based in the San Francisco Bay Area. Interests include AI, Operating Systems, Gaming, and Finance.         
+### Software Engineer, Data Scientist, Artificial Intelligence Expert, Cybersecurity Professional, triple master graduate, and tech/business focused person based in the San Francisco Bay Area.             
 
 # Experience
 • Independent Software Development and Engineering    
 • Independent Data Science    
+• Independent Artificial Intelligence    
+• Cybersecurity Consulting, including at a Big 4        
 • Freelance Software Development    
+• Independent Game Development    
 • Game Testing    
-• Consulting    
+• IT Consulting    
 • Management and Leadership    
 
 Common tools: Python, Java, C++, C#, SQL...     
@@ -24,7 +27,7 @@ Common tools: Python, Java, C++, C#, SQL...
 ____________________________________________________________________________________________________________________________________
 
 # Education
-• Master of Science, Computer Science in progress      
+• Post-Master's Studies, Computer Science      
 • Master of Science, Data Analytics      
 • Master of Science, Cybersecurity  
 • Master of Business Administration        
@@ -53,22 +56,38 @@ ________________________________________________________________________________
 # Ongoing Independent Projects
 • New programming language  
 • Misc. Apps, Games, and APIs  
+• Books (Fictiona and Non-Fiction)     
 
 ____________________________________________________________________________________________________________________________________
 
-# Published Computer Science Books
+# Selection of Books
+Computer Science Books that are Curated in Top Research Institutions     
 • [Artificial Intelligence Fundamentals](https://www.amazon.com/dp/B0CHNC67TS)  
-• [Data Science](https://www.amazon.com/dp/B0CHJLZHX6)  
-• [Hacker](https://www.amazon.com/dp/B0CDFM4K8Y)        
 • [Swift Programming](https://www.amazon.com/dp/B0C8H549WJ)        
-• [Hacker's Cookbook](https://www.amazon.com/dp/B0C887QGRM)      
-• [Encryption](https://www.amazon.com/dp/B0C85HLBSG)     
-• [Go Programming](https://www.amazon.com/dp/B0C7G56HY5)      
 • [Software Engineering](https://www.amazon.com/dp/B0C5MF2V7W)      
-• [Data Structures, Algorithms, and Machine Learning in Ruby](https://www.amazon.com/dp/B0C57G9DZZ)     
 • [Neural Networks](https://www.amazon.com/dp/B0C573PP5B)      
-• [Artificial Intelligence](https://www.amazon.com/dp/B0C4HCLXSQ)     
-• [Computer Science](https://www.amazon.com/dp/B0C3ZX7DQ5)      
+
+Computer Science Books that Reached #1 Rankings on Amazon     
+• [Swift Programming](https://www.amazon.com/dp/B0C8H549WJ) - #1 in Swift Programming Language        
+• [Data Science](https://www.amazon.com/dp/B0CHJLZHX6) - #1 in Mathematical Analysis     
+• [Perl Programming](https://www.amazon.com/dp/B0CQSXQBS6) - #1 in Perl Computer Programming     
+• [Groovy Programming](https://www.amazon.com/dp/B0CVRNXTRZ) - #1 in Parallel Computer Programming     
+
+Recommended Business Books          
+• [Business: The Digital Tides](https://www.amazon.com/dp/B0CR782ZHJ)         
+• [Quantitative Finance](https://www.amazon.com/dp/B0CPNX93GZ)         
+
+Selection of Fiction Book Series     
+• [Zombie Chronicles series](https://www.amazon.com/dp/B0CPS517FK)      
+• [Cyber Bushido series](https://www.amazon.com/dp/B0CTYKPB1S)      
+• [The Will of Fire series](https://www.amazon.com/dp/B0CLKVVD76)      
+• [Cyber Warfare series](http://www.amazon.com/dp/B0CKM7VCVP)      
+
+Selection of Other Books     
+• [BASH](https://www.amazon.com/dp/B0CRQGFYRL) - Book on Bash (Bourne Again Shell)      
+• [Ubuntu Linux Guide](https://www.amazon.com/dp/B0CWT638SB) - Book about Ubuntu Linux     
+• [Wrath](https://www.amazon.com/dp/B0CR4P9QK6) - Book on searching for Bigfoot      
+• [The Mirror](https://www.amazon.com/dp/B0CR4BXV1Q) - Book about an investment banker (fiction)     
 
 ____________________________________________________________________________________________________________________________________
 
@@ -79,32 +98,29 @@ ActionScript, ActionScript Classic, Ada, AngelScript, AppleScript, Bash, Basic, 
 
 ____________________________________________________________________________________________________________________________________
 
-# Interests
+# Other Interests
 
 ```markdown
 STEM
-• App Development, including AI, OS, Blockchains, Game Engines, and Games
-• Astrophysics, including Quantum Physics, General Relativity, Special Relativity, and Physical Cosmology
-• Computer Hardware, Audio, Video, Interfaces
-• Complex numbers like the Mandelbrot set
-• Space Exploration and Colonization
-• Robots, Androids, and Drones
-• General STEM
+• Space Exploration and Colonization and undertanding how the universe works
+• Artificial Life and Genetic Engineering     
+• Robotics     
+• Mathematical Sets          
+• Quantum Supercomputing
+• Operating Systems and Distributed Architecture
+• Programming Languages, Compilers, and Interpreters          
+• Video Games, Game Engines, and Computer Simulated Worlds          
 
 Other
-• Gaming
-• Swimming
-• Skiing
-• Traveling
-• Audio Listening
+• Finance     
+• Swimming     
+• Skiing and Snowboarding     
+• Traveling     
+• Audio Listening     
 ```
    
 ____________________________________________________________________________________________________________________________________
 
-# Other Published Books
-• [UZA](https://www.amazon.com/dp/B0CDYW2HZH)        
-• [The Outdoor People](https://www.amazon.com/dp/B0C2WCQFW2)      
-• [Providence](https://www.amazon.com/dp/B0C184N5HD)     
 
 
 
