@@ -27,22 +27,29 @@ Common tools: Python, Java, C++, C#, SQL...
 ____________________________________________________________________________________________________________________________________
 
 # Education
-• Post-Master's Studies, Computer Science      
-• Master of Science, Data Analytics      
-• Master of Science, Cybersecurity  
-• Master of Business Administration        
+Georgia Institute of Technology      
+• Post-Master's Studies, Computer Science | Completed      
+
+Western Governors University     
+• Master of Science, Data Analytics | Graduated       
+
+Western Governors University     
+• Master of Science, Cybersecurity | Graduated       
+
+Western Governors University     
+• Master of Business Administration | Graduated        
 
 ____________________________________________________________________________________________________________________________________
 
 # Credentials 
-• [Advanced Data Modeling Micro-credential](https://wgu.badgr.com/public/assertions/1K6e7LuuR1-6X9jztl8BBA)     
-• [Data Analytics Fundamentals Micro-credential](https://api.badgr.io/public/assertions/rZmbnxEJSyuhUihylZOmTw)     
-• [Data Preparation Micro-credential](https://api.badgr.io/public/assertions/VxElP-ftQW29949Tb1uh6w)     
-• [1st Place Team](https://api.badgr.io/public/assertions/UkMhEM24Sr2MqICPlPu18w)        
-• [Certificate of Completion](https://api.badgr.io/public/assertions/EqLkixvzT5KfxXjaaJhdig)    
-• [Certified Ethical Hacker](https://aspen.eccouncil.org/VerifyBadge?&type=certification&a=vp1VEDsr3JTQaPYsoO0hBKIfBWaffPfg1XMgf32gbbM=)     
-• [Project+](https://www.credly.com/badges/7c2182a1-b604-401e-87c5-0409168341a1)    
-• [Applied Deep Learning Capstone Project](https://courses.edx.org/certificates/03f2941723174b1798feeba937d61d3b)     
+• [Advanced Data Modeling Micro-credential](https://wgu.badgr.com/public/assertions/1K6e7LuuR1-6X9jztl8BBA) from Western Governors University     
+• [Data Analytics Fundamentals Micro-credential](https://api.badgr.io/public/assertions/rZmbnxEJSyuhUihylZOmTw) from Western Governors University     
+• [Data Preparation Micro-credential](https://api.badgr.io/public/assertions/VxElP-ftQW29949Tb1uh6w) from Western Governors University     
+• [1st Place Team](https://api.badgr.io/public/assertions/UkMhEM24Sr2MqICPlPu18w) from Marketplace Simulations        
+• [Certificate of Completion](https://api.badgr.io/public/assertions/EqLkixvzT5KfxXjaaJhdig) from Marketplace Simulations    
+• [Certified Ethical Hacker](https://aspen.eccouncil.org/VerifyBadge?&type=certification&a=vp1VEDsr3JTQaPYsoO0hBKIfBWaffPfg1XMgf32gbbM=) from EC-Council     
+• [Project+](https://www.credly.com/badges/7c2182a1-b604-401e-87c5-0409168341a1) from CompTIA    
+• [Applied Deep Learning Capstone Project](https://courses.edx.org/certificates/03f2941723174b1798feeba937d61d3b) from IBM     
 
 ____________________________________________________________________________________________________________________________________
 
