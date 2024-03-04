@@ -83,14 +83,17 @@ Computer Science Books that Reached #1 Rankings on Amazon
 Recommended Business Books          
 • [Business: The Digital Tides](https://www.amazon.com/dp/B0CR782ZHJ)         
 • [Quantitative Finance](https://www.amazon.com/dp/B0CPNX93GZ)         
+• [Business Analytics for Apes](https://www.amazon.com/dp/B0CQX3954V)         
 
 Selection of Fiction Book Series     
 • [Zombie Chronicles series](https://www.amazon.com/dp/B0CPS517FK)      
 • [Cyber Bushido series](https://www.amazon.com/dp/B0CTYKPB1S)      
 • [The Will of Fire series](https://www.amazon.com/dp/B0CLKVVD76)      
-• [Cyber Warfare series](http://www.amazon.com/dp/B0CKM7VCVP)      
+• [Cyber Warfare series](https://www.amazon.com/dp/B0CKM7VCVP)      
+• [The Werecrow series](https://www.amazon.com/dp/B0CW13QR2Q)      
 
 Selection of Other Books     
+• [Python Programming](https://www.amazon.com/dp/B0CQFT6JXP) - Book on Python programming      
 • [BASH](https://www.amazon.com/dp/B0CRQGFYRL) - Book on Bash (Bourne Again Shell)      
 • [Ubuntu Linux Guide](https://www.amazon.com/dp/B0CWT638SB) - Book about Ubuntu Linux     
 • [Wrath](https://www.amazon.com/dp/B0CR4P9QK6) - Book on searching for Bigfoot      
