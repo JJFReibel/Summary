@@ -88,6 +88,9 @@ Selection of Other Books
 • [Ubuntu Linux Guide](https://www.amazon.com/dp/B0CWT638SB) - Book about Ubuntu Linux     
 • [Wrath](https://www.amazon.com/dp/B0CR4P9QK6) - Book on searching for Bigfoot      
 • [The Mirror](https://www.amazon.com/dp/B0CR4BXV1Q) - Book about an investment banker (fiction)     
+• [Gnostic Data Kaballah](https://www.amazon.com/dp/B0CW1GM6RK) - Book examining parallels between Gnostic Kaballah and Data Science     
+• [Le Café](https://www.amazon.com/dp/B0CNLH4XP1) - Book of French poems (in French) about the traditional cafés          
+
 
 ____________________________________________________________________________________________________________________________________
 
