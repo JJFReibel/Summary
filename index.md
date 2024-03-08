@@ -1,11 +1,11 @@
 ## Jean-Jacques F. Reibel    
 Preferred Name/Moniker/Alias: JJ (PRONOUNCED JAY-JAY)    
 
-[Website](https://www.appshub.link)     
+[Website](https://www.appshub.link) | [GitHub](https://github.com/JJFReibel) | [LinkedIn](http://www.linkedin.com/in/jj-reibel) | [Amazon Author Page](https://www.amazon.com/author/jjreibel)          
 
 
 ____________________________________________________________________________________________________________________________________
-[GitHub](https://github.com/JJFReibel) | [LinkedIn](http://www.linkedin.com/in/jj-reibel) | [FRANC on Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0xbabd6aa0798b805309533601ef4459103803e09b) | [Amazon Author Page](https://www.amazon.com/author/jjreibel)       
+[FRANC on Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0xbabd6aa0798b805309533601ef4459103803e09b)            
 Ethereum Address: 0x5D54eF668a5BF42202AA7f5213CBC75835F99709  
 Franc Contract Address: 0xbabd6aa0798b805309533601ef4459103803e09b  
 
@@ -21,8 +21,9 @@ Franc Contract Address: 0xbabd6aa0798b805309533601ef4459103803e09b
 • Game Testing    
 • IT Consulting    
 • Management and Leadership    
+• Author
 
-Common tools: Python, Java, C++, C#, SQL...     
+Common skills: Java, C#, ML, System hardening...     
 
 ____________________________________________________________________________________________________________________________________
 
