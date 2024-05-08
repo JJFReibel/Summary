@@ -28,9 +28,6 @@ Common skills: Java, C#, ML, System hardening...
 ____________________________________________________________________________________________________________________________________
 
 # Education
-Georgia Institute of Technology      
-• Post-Master's Studies, Computer Science | Completed      
-
 Western Governors University     
 • Master of Science, Data Analytics | Graduated       
 
@@ -42,15 +39,8 @@ Western Governors University
 
 ____________________________________________________________________________________________________________________________________
 
-# Credentials 
-• [Advanced Data Modeling Micro-credential](https://wgu.badgr.com/public/assertions/1K6e7LuuR1-6X9jztl8BBA) from Western Governors University     
-• [Data Analytics Fundamentals Micro-credential](https://api.badgr.io/public/assertions/rZmbnxEJSyuhUihylZOmTw) from Western Governors University     
-• [Data Preparation Micro-credential](https://api.badgr.io/public/assertions/VxElP-ftQW29949Tb1uh6w) from Western Governors University     
-• [1st Place Team](https://api.badgr.io/public/assertions/UkMhEM24Sr2MqICPlPu18w) from Marketplace Simulations        
-• [Certificate of Completion](https://api.badgr.io/public/assertions/EqLkixvzT5KfxXjaaJhdig) from Marketplace Simulations    
+# Credentials  
 • [Certified Ethical Hacker](https://aspen.eccouncil.org/VerifyBadge?&type=certification&a=vp1VEDsr3JTQaPYsoO0hBKIfBWaffPfg1XMgf32gbbM=) from EC-Council     
-• [Project+](https://www.credly.com/badges/7c2182a1-b604-401e-87c5-0409168341a1) from CompTIA    
-• [Applied Deep Learning Capstone Project](https://courses.edx.org/certificates/03f2941723174b1798feeba937d61d3b) from IBM     
 
 ____________________________________________________________________________________________________________________________________
 
@@ -80,28 +70,30 @@ Computer Science Books that Reached #1 Rankings on Amazon
 • [Data Science](https://www.amazon.com/dp/B0CHJLZHX6) - #1 in Mathematical Analysis     
 • [Perl Programming](https://www.amazon.com/dp/B0CQSXQBS6) - #1 in Perl Computer Programming     
 • [Groovy Programming](https://www.amazon.com/dp/B0CVRNXTRZ) - #1 in Parallel Computer Programming     
+• [Ubuntu Linux Guide](https://www.amazon.com/dp/B0CWT638SB) - #1 in both Virtualization and Linux Servers        
+• [Prolog Programming](https://www.amazon.com/dp/B0CW1FSD6R) - #1 in Prolog Programming         
 
 Recommended Business Books          
 • [Business: The Digital Tides](https://www.amazon.com/dp/B0CR782ZHJ)         
 • [Quantitative Finance](https://www.amazon.com/dp/B0CPNX93GZ)         
 • [Business Analytics for Apes](https://www.amazon.com/dp/B0CQX3954V)         
+• [Statistical Finance](https://www.amazon.com/dp/B0D2R4Q7QZ)         
 
 Selection of Fiction Book Series     
 • [Zombie Chronicles series](https://www.amazon.com/dp/B0CPS517FK)      
 • [Cyber Bushido series](https://www.amazon.com/dp/B0CTYKPB1S)      
 • [The Will of Fire series](https://www.amazon.com/dp/B0CLKVVD76)      
+• [The Chronicles of Womania series](https://www.amazon.com/dp/B0D3GS271S) - The sequel series to "The Will of Fire" series      
 • [Cyber Warfare series](https://www.amazon.com/dp/B0CKM7VCVP)      
 • [The Werecrow series](https://www.amazon.com/dp/B0CW13QR2Q)      
 
 Selection of Other Books     
 • [Python Programming](https://www.amazon.com/dp/B0CQFT6JXP) - Book on Python programming      
 • [BASH](https://www.amazon.com/dp/B0CRQGFYRL) - Book on Bash (Bourne Again Shell)      
-• [Ubuntu Linux Guide](https://www.amazon.com/dp/B0CWT638SB) - Book about Ubuntu Linux     
 • [Wrath](https://www.amazon.com/dp/B0CR4P9QK6) - Book on searching for Bigfoot      
 • [The Mirror](https://www.amazon.com/dp/B0CR4BXV1Q) - Book about an investment banker (fiction)     
 • [Gnostic Data Kaballah](https://www.amazon.com/dp/B0CW1GM6RK) - Book examining parallels between Gnostic Kaballah and Data Science     
 • [Le Café](https://www.amazon.com/dp/B0CNLH4XP1) - Book of French poems (in French) about the traditional cafés          
-
 
 ____________________________________________________________________________________________________________________________________
 
