@@ -1,10 +1,3 @@
-<img src="https://github.com/JJFReibel/Summary/blob/master/images/banner.png" width="1000">
-
-<p align="center" style="text-decoration:none;> 
-    <a href="https://appshub.link" target="_blank">J.J.F. REIBEL</a>
-</p>
-
-
 [![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=500&center=true&random=false&width=1200&lines=I+am+an+engineer;I+am+an+author;I+am+a+consultant;I+am+an+analyst)](https://git.io/typing-svg)
 
 
