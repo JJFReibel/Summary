@@ -1,6 +1,7 @@
+[![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=500&center=true&random=false&width=1200&lines=J+.+J+.+F+.++Reibel+,++MBA,+M.S.+Cybersecurity,+M.S.+Data+Analytics)](https://git.io/typing-svg)
+
+
 [![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=500&center=true&random=false&width=1200&lines=I+am+an+engineer;I+am+an+author;I+am+a+consultant;I+am+an+analyst)](https://git.io/typing-svg)
-
-
 
 ---
 ## <span style="color: blue !important;">&gt;</span> Skillset
