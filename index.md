@@ -39,31 +39,29 @@
 
 ## > STEM Inspired Sci-Fi
 J.J.F. Reibel's Apocalypse (Franchise currently consisting of four series).   
-- Zombie Chronicles    
-- Vampires    
-- Cyber Bushido    
-- Savage Domain     
+[Zombie Chronicles](https://www.amazon.com/dp/B0CPS517FK)      
+[Vampires](https://www.amazon.com/dp/B0D5PFNRSQ)      
+[Cyber Bushido](https://www.amazon.com/dp/B0CTYKPB1S)      
+[Savage Domain](https://www.amazon.com/dp/B0DHQRLH11)         
 
-The Risen    
+[The Risen](https://www.amazon.com/dp/B0DCC3Z7TZ)    
 
-Ashes of Ashara
+[Ashes of Ashara](https://www.amazon.com/dp/B0DHFGSST8)
 
-Chrono-Vanguard    
-
-OctoRaptor     
+[Chrono-Vanguard](https://www.amazon.com/dp/B0D6J42NN8)    
 
 ## > Fantasy
 J.J.F. Reibel's Mythic (Franchise currently consisting of four series).   
-- The Will of Fire    
-- Chronicles of Womania    
-- Barbaria    
-- New World     
+[The Will of Fire](https://www.amazon.com/dp/B0CLKVVD76)    
+[Chronicles of Womania](https://www.amazon.com/dp/B0CW1972NX)    
+[Barbaria](https://www.amazon.com/dp/B0D98P98T4)    
+[New World](https://www.amazon.com/dp/B0CW13QR2Q)     
 
-Rise of Tlaloc    
+[Rise of Tlaloc](https://www.amazon.com/dp/B0D2KXQG7N)    
 
-The Toad Cartels    
+[The Toad Cartels](https://www.amazon.com/dp/B0CWD6VBST)    
 
-Civil War V     
+[Civil War Z](https://www.amazon.com/dp/B0CL1XZ5P7)     
     
 ## > Other Non-STEM Publications
 Dogge Days      
@@ -104,7 +102,7 @@ ________________________________________________________________________________
 
 ```markdown
 STEM
-• Space Exploration and Colonization and undertanding how the universe works
+• Space Exploration and Colonization and understanding how the universe works
 • Artificial Life and Genetic Engineering     
 • Robotics     
 • Mathematical Sets          
