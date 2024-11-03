@@ -9,33 +9,33 @@
 
 ---
 ## > Notable Publications (Reached #1 on Amazon for respective category)
-![Data Science, for Mathematical Analysis](https://www.amazon.com/Data-Science/dp/B0CHG4W2XH)
-![Swift Programming, for Swift Programming](https://www.amazon.com/Swift-Programming/dp/B0C87W6RQM)
-![Prolog Programming, for Prolog Programming](https://www.amazon.com/dp/B0CZ1Z9PFZ)
-![Perl Programming, for Perl Programming](https://www.amazon.com/dp/B0CQTTTZC6)
-![Groovy Programming, for Parallel Computer Programming](https://www.amazon.com/dp/B0CVSHSKTT)
-![Ubuntu Linux Guide, for both Virtualization and Linux Servers](https://www.amazon.com/dp/B0CWVDPCV8)
-![Sasquatch Sightings, for Environmental & Land Art](https://www.amazon.com/dp/B0DDQDBP4L)
+[Data Science, for Mathematical Analysis](https://www.amazon.com/Data-Science/dp/B0CHG4W2XH)      
+[Swift Programming, for Swift Programming](https://www.amazon.com/Swift-Programming/dp/B0C87W6RQM)      
+[Prolog Programming, for Prolog Programming](https://www.amazon.com/dp/B0CZ1Z9PFZ)      
+[Perl Programming, for Perl Programming](https://www.amazon.com/dp/B0CQTTTZC6)      
+[Groovy Programming, for Parallel Computer Programming](https://www.amazon.com/dp/B0CVSHSKTT)      
+[Ubuntu Linux Guide, for both Virtualization and Linux Servers](https://www.amazon.com/dp/B0CWVDPCV8)      
+[Sasquatch Sightings, for Environmental & Land Art](https://www.amazon.com/dp/B0DDQDBP4L)      
 
 ## > Other Notable Publications (Reached high rankings)
-![Operating System Engineering](https://www.amazon.com/Operating-Engineering/dp/B0CY4TSPV2)
-![WebAssembly](https://www.amazon.com/WebAssembly/dp/B0CYX1KQBT)
-![Networking](https://www.amazon.com/dp/B0CYBSH1QG)
-![Python Programming](https://www.amazon.com/dp/B0CQGKH7NH)
-![Hacker's Cookbook](https://www.amazon.com/dp/B0C87VCRVL)
-![Cyber Python](https://www.amazon.com/dp/B0D4B5F9MS)
+[Operating System Engineering](https://www.amazon.com/Operating-Engineering/dp/B0CY4TSPV2)      
+[WebAssembly](https://www.amazon.com/WebAssembly/dp/B0CYX1KQBT)      
+[Networking](https://www.amazon.com/dp/B0CYBSH1QG)      
+[Python Programming](https://www.amazon.com/dp/B0CQGKH7NH)      
+[Hacker's Cookbook](https://www.amazon.com/dp/B0C87VCRVL)      
+[Cyber Python](https://www.amazon.com/dp/B0D4B5F9MS)      
 
 ## > Other Notable Publications (Curated in top US research universities)
-![Artificial Intelligence Fundamentals](https://www.amazon.com/dp/B0CHL9L8W4)
-![Software Engineering](https://www.amazon.com/dp/B0C5KY8K1N)
-![Neural Networks](https://www.amazon.com/dp/B0C52DHY6P)
+[Artificial Intelligence Fundamentals](https://www.amazon.com/dp/B0CHL9L8W4)      
+[Software Engineering](https://www.amazon.com/dp/B0C5KY8K1N)      
+[Neural Networks](https://www.amazon.com/dp/B0C52DHY6P)      
 
 ## > Books for Newbies
-![Cybersecurity for Kittens](https://www.amazon.com/dp/B0D1YKYH6S)
-![Computer Science](https://www.amazon.com/dp/B0C2S1JKDN)
-![Compilers: A High-Level Overview](https://www.amazon.com/dp/B0CJ4CWP9P)
-![Business Analytics for Apes](https://www.amazon.com/dp/B0CQXQJXBF)
-![Business: The Digital Tides](https://www.amazon.com/dp/B0CR7N3FW8)
+[Cybersecurity for Kittens](https://www.amazon.com/dp/B0D1YKYH6S)      
+[Computer Science](https://www.amazon.com/dp/B0C2S1JKDN)      
+[Compilers: A High-Level Overview](https://www.amazon.com/dp/B0CJ4CWP9P)      
+[Business Analytics for Apes](https://www.amazon.com/dp/B0CQXQJXBF)      
+[Business: The Digital Tides](https://www.amazon.com/dp/B0CR7N3FW8)      
 
 ## > STEM Inspired Sci-Fi
 J.J.F. Reibel's Apocalypse (Franchise currently consisting of four series).   
@@ -66,7 +66,7 @@ The Toad Cartels
 Civil War V     
     
 ## > Other Non-STEM Publications
-Dogge Days
+Dogge Days      
 A Place of Snow      
 Providence: A collection of poems      
 The Outdoor People      
