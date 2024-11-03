@@ -64,13 +64,13 @@ J.J.F. Reibel's Mythic (Franchise currently consisting of four series).
 [Civil War Z](https://www.amazon.com/dp/B0CL1XZ5P7)     
     
 ## > Other Non-STEM Publications
-Dogge Days      
-A Place of Snow      
-Providence: A collection of poems      
-The Outdoor People      
-Pistacianity      
-Gnostic Data Kaballah      
-Martini-ism      
+[Dogge Days](https://www.amazon.com/dp/B0DKB67HLB)      
+[A Place of Snow](https://www.amazon.com/dp/B0CQJZ96TB)      
+[Providence: A collection of poems](https://www.amazon.com/dp/B0C184N5HD)      
+[The Outdoor People](https://www.amazon.com/dp/B0C2WCQFW2)      
+[Pistacianity](https://www.amazon.com/dp/B0CPXHGF3D)      
+[Gnostic Data Kaballah](https://www.amazon.com/dp/B0CW1GM6RK)      
+[Martini-ism](https://www.amazon.com/dp/B0DHQZ3J26)      
 
 ---
 ## > Support my Work
