@@ -92,7 +92,7 @@ Ethereum (ETH)    | 0x5D54eF668a5BF42202AA7f5213CBC75835F99709
 ____________________________________________________________________________________________________________________________________
 
 # About the Object-Oriented Repositories
-The repositories named ObjectOriented[], where [] is replaced with a programming langauge or dialect, demonstrate object oriented programming in over 70 computer languages. Some names are modified so that the format is compatible with GitHub, such as ObjectOrientedCPP for C++. Languages include:  
+The repositories named ObjectOriented[], where [] is replaced with a programming language or dialect, demonstrate object oriented programming in over 70 computer languages. Some names are modified so that the format is compatible with GitHub, such as ObjectOrientedCPP for C++. Languages include:  
 
 ActionScript, ActionScript Classic, Ada, AngelScript, AppleScript, Bash, Basic, Boo, C, C#, C++, Caml, Ceylon, Clojure, Cobra, CoffeeScript, Crystal, CSV, D, Dart, eC, Eiffel, Elixir, Elm, Erlang, F#, Fantom, Fortran, Go, Gosu, Groovy, Haskell, Haxe, HTML, Hy, INI, Java, JavaScript, JavaScript Classic, JSON, Julia, Kotlin, Lua, MySQL, Nemerle, Nim, Objective-C, OCaml, Pascal, Perl, PHP, PostgreSQL, PowerShell, Python, QBasic, R, Raku, Ruby, Rust, Scala, SQLite, Smalltalk, Swift, Tcl, TOML, Transact-SQL, TypeScript, Vala, Visual Basic, XML, YAML, Z Shell  
 
