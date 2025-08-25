@@ -1,4 +1,6 @@
-[![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=500&center=true&random=false&width=1200&lines=J.J.F.+Reibel,+MBA,+M.S.+Cybersecurity,+M.S.+Data+Analytics)](https://git.io/typing-svg)
+[![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=500&center=true&random=false&width=1200&lines=J.J.F.+Reibel)](https://git.io/typing-svg)
+
+[![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=500&center=true&random=false&width=1200&lines=MBA,+M.S.+Computer+Science,+M.S.+Cybersecurity,+M.S.+Data+Analytics)](https://git.io/typing-svg)
 
 
 [![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=500&center=true&random=false&width=1200&lines=I+am+an+engineer;I+am+an+author;I+am+a+consultant;I+am+an+analyst)](https://git.io/typing-svg)
@@ -20,6 +22,8 @@
 ## > Other Notable Publications (Reached high rankings)
 [Operating System Engineering](https://www.amazon.com/Operating-Engineering/dp/B0CY4TSPV2)      
 [WebAssembly](https://www.amazon.com/WebAssembly/dp/B0CYX1KQBT)      
+[C Programming](https://www.amazon.com/dp/B0F1DPM3DP)      
+[C++ Programming](https://www.amazon.com/dp/B0F23FH5BK)      
 [Networking](https://www.amazon.com/dp/B0CYBSH1QG)      
 [Python Programming](https://www.amazon.com/dp/B0CQGKH7NH)      
 [Hacker's Cookbook](https://www.amazon.com/dp/B0C87VCRVL)      
@@ -38,28 +42,47 @@
 [Business: The Digital Tides](https://www.amazon.com/dp/B0CR7N3FW8)      
 
 ## > STEM Inspired Sci-Fi
-J.J.F. Reibel's Apocalypse (Franchise currently consisting of four series).   
+J.J.F. Reibel's Apocalypse (Franchise currently consisting of five series).   
 [Zombie Chronicles](https://www.amazon.com/dp/B0CPS517FK)      
-[Vampires](https://www.amazon.com/dp/B0D5PFNRSQ)      
+[Vampirez](https://www.amazon.com/dp/B0D5PFNRSQ)      
 [Cyber Bushido](https://www.amazon.com/dp/B0CTYKPB1S)      
 [Savage Domain](https://www.amazon.com/dp/B0DHQRLH11)         
+[Neo-Genesis](https://www.amazon.com/dp/B0FGWTC8FX)         
+
 
 [The Risen](https://www.amazon.com/dp/B0DCC3Z7TZ)    
+
+[The World Ends](https://www.amazon.com/dp/B0DVFVGWPF)    
+
+[Red Square:Exodus](https://www.amazon.com/dp/B0FBTDK5VZ)    
+
+[OctoRaptor](https://www.amazon.com/dp/B0DVGTLJ3T)    
 
 [Ashes of Ashara](https://www.amazon.com/dp/B0DHFGSST8)
 
 [Chrono-Vanguard](https://www.amazon.com/dp/B0D6J42NN8)    
 
+[The Toad Cartels](https://www.amazon.com/dp/B0CWD6VBST)    
+
+
+
 ## > Fantasy
-J.J.F. Reibel's Mythic (Franchise currently consisting of four series).   
+J.J.F. Reibel's Mythic (Franchise currently consisting of eight series).   
 [The Will of Fire](https://www.amazon.com/dp/B0CLKVVD76)    
 [Chronicles of Womania](https://www.amazon.com/dp/B0CW1972NX)    
 [Barbaria](https://www.amazon.com/dp/B0D98P98T4)    
 [New World](https://www.amazon.com/dp/B0CW13QR2Q)     
+[The Rage of Lightning](https://www.amazon.com/dp/B0DP29KR7R)     
+[THORA](https://www.amazon.com/dp/B0CXPZ7W8K)     
+[Dragonheimr](https://www.amazon.com/dp/B0DQB7KPPW)     
+[SONJA](https://www.amazon.com/dp/B0DVG68JBV)     
+
+
+J.J.F. Reibel's Legendary (Franchise currently consisting of one series).   
+[The Infinite Tower](https://www.amazon.com/dp/B0FNNQ7SDD)    
+
 
 [Rise of Tlaloc](https://www.amazon.com/dp/B0D2KXQG7N)    
-
-[The Toad Cartels](https://www.amazon.com/dp/B0CWD6VBST)    
 
 [Civil War Z](https://www.amazon.com/dp/B0CL1XZ5P7)     
     
@@ -75,7 +98,6 @@ J.J.F. Reibel's Mythic (Franchise currently consisting of four series).
 ---
 ## > Support my Work
 [![Cash App](https://img.shields.io/badge/CashApp-01D21C?style=for-the-badge&logo=cashapp&logoColor=white)](https://cash.app/$JJReibel)
- [![Buy Me A Coffee](https://img.shields.io/badge/BuyMeACoffee-FFDD00?style=for-the-badge)](https://www.buymeacoffee.com/jjreibel)
 <details>
 
   <summary>↕️ <bold>Cryptocurrency List</bold></summary>
