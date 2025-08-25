@@ -44,7 +44,7 @@
 ## > STEM Inspired Sci-Fi
 J.J.F. Reibel's Apocalypse (Franchise currently consisting of five series).   
 [Zombie Chronicles](https://www.amazon.com/dp/B0CPS517FK)      
-[Vampires](https://www.amazon.com/dp/B0D5PFNRSQ)      
+[Vampirez](https://www.amazon.com/dp/B0D5PFNRSQ)      
 [Cyber Bushido](https://www.amazon.com/dp/B0CTYKPB1S)      
 [Savage Domain](https://www.amazon.com/dp/B0DHQRLH11)         
 [Neo-Genesis](https://www.amazon.com/dp/B0FGWTC8FX)         
